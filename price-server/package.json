@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@opentelemetry/api": "^1.0.2",
-    "@opentelemetry/exporter-prometheus": "^0.23.0",
+    "@opentelemetry/exporter-prometheus": "^0.29.1",
     "@opentelemetry/metrics": "^0.23.0",
     "@polka/send-type": "^0.5.2",
     "@sentry/node": "^6.0.2",
