@@ -24,7 +24,7 @@
     "node-fetch": "^2.6.7",
     "pako": "^2.0.3",
     "polka": "^0.5.2",
-    "ts-node": "^10.7.0",
+    "ts-node": "^10.8.1",
     "tsconfig-paths": "^3.9.0",
     "typescript": "^4.1.3",
     "ws": "^7.4.2"
