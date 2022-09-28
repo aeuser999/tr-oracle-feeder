@@ -1,4 +1,4 @@
-FROM node:16.13.0
+FROM node:16.17.1
 
 ENV ORACLE_FEEDER_PRICE_ENDPOINT=http://localhost:8532/latest
 ENV	ORACLE_FEEDER_LCD_ADDRESSES=https://lcd.terra.dev
