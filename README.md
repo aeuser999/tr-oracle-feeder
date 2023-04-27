@@ -28,7 +28,7 @@ You can easily modify the logic for how LUNC exchange rates are computed by eith
 1. Clone this repository
 
 ```sh
-git clone https://github.com/terra-money/oracle-feeder
+git clone https://github.com/lunanauts/oracle-feeder
 cd oracle-feeder
 ```
 
